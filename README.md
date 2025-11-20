@@ -1,18 +1,26 @@
-## LIVE GIFTS FUNCIONALIDADES ##
+# 🎁 Lives Gifts — Back-end
 
-# CADASTRO DE USUÁRIO # :concluido
+Este é o back-end do projeto **Lives Gifts**, desenvolvido para fins de estudo e aperfeiçoamento.  
+A proposta do sistema é permitir que streamers da Twitch recebam doações via Pix, onde cada doação pode exibir um GIF personalizado diretamente na live do streamer.
 
-name
-email
-document
-phone
-birthday
-key_pix
-verify_email
-verify_phone
-two_factor
+## 🚀 Tecnologias Utilizadas
+- **Node.js**
+- **TypeScript**
+- **Express**
+- **PostgreSQL**
+- **JWT (JSON Web Token)** para autenticação
+- **Prisma** (caso esteja utilizando ORM)
 
+## 🎯 Objetivo do Projeto
+- Criar uma API rápida, segura e organizada.
+- Gerenciar usuários, streamers e doações.
+- Processar GIFs e eventos para exibir nas lives.
+- Comunicação simples e eficiente com o front-end.
 
-## LOGIN ## :concluido
+## 📦 Status do Projeto
+Em desenvolvimento — criado com foco em aprendizado de back-end e boas práticas.
 
-Usuário vai enviar uma requisição para a api, e a api vai autenticar e retornar um hash jwt
+## 📚 Como Executar
+```bash
+yarn
+yarn dev
