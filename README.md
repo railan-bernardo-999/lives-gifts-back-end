@@ -9,7 +9,6 @@ A proposta do sistema é permitir que streamers da Twitch recebam doações via 
 - **Express**
 - **PostgreSQL**
 - **JWT (JSON Web Token)** para autenticação
-- **Prisma** (caso esteja utilizando ORM)
 
 ## 🎯 Objetivo do Projeto
 - Criar uma API rápida, segura e organizada.
